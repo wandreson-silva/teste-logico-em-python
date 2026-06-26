@@ -1,2 +1,2 @@
 # teste-logico-em-python
-Repositório Versionado 
+Descobra o número que você pensou e a sua idade
